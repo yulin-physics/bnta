@@ -7,9 +7,9 @@ This repository is for
 
 ## Table of contents
 
-[numList](#numList)
-[person](#person)
-[book](#book)
+   [numList](#numList)  
+   [person](#person)  
+   [book](#book)  
 
 
 
