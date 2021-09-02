@@ -43,15 +43,15 @@ public class CheckBrackets {
 
     }
 
-    private static boolean isClosingBracket(String openingBracket){
-        String[] closingBrackets = {"}", "]", ">", ")"};
-        boolean isClosingBracket = false;
-        for (String bracket : closingBrackets){
-            isClosingBracket = openingBracket.equals(bracket);
-        }
-
-        return isClosingBracket;
-    }
+//    private static boolean isClosingBracket(String openingBracket){
+//        String[] closingBrackets = {"}", "]", ">", ")"};
+//        boolean isClosingBracket = false;
+//        for (String bracket : closingBrackets){
+//            isClosingBracket = openingBracket.equals(bracket);
+//        }
+//
+//        return isClosingBracket;
+//    }
 
 
 }
