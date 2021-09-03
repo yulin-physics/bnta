@@ -42,5 +42,7 @@ Implement a function that checks if the opening bracket/parenthesis has a corres
 Write a method that returns the average age for males or females.
 the function should take as an argument a list of type person and an enum of type gender. The gender should be used to filter either male or females
 
+`testing`
+Testing PersonService class, move PersonServiceTest class into the right testing packaging for files to run.
 
   
